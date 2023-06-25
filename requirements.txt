@@ -2,5 +2,5 @@ numpy
 pandas
 plotly
 streamlit
-PIL
+pillow
 ccxt
